@@ -10,7 +10,7 @@ require (
 	github.com/mh-cbon/stringexec v0.0.0-20160727103857-bc348d279f97
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli v1.20.0
-	golang.org/x/sys v0.0.0-20161108151328-9a2e24c3733e
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.1-0.20180810153555-6e3c4e7365dd
 )
 
